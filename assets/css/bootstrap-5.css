@@ -7242,7 +7242,7 @@ textarea.form-control-lg {
 }
 
 .shadow-lg {
-  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+  box-shadow: 0 1rem 3rem #10002B !important;
 }
 
 .shadow-none {
@@ -8540,7 +8540,7 @@ textarea.form-control-lg {
 
 .bg-secondary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #10002B !important;
 }
 
 .bg-black {
@@ -11746,7 +11746,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .theme-progress-bar-dark {
-  background-color: #59578E;
+  background-color: #10002B;
 }
 
 .resume-wrapper {
@@ -11759,7 +11759,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header {
-  background: #59578E;
+  background: #10002B;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
@@ -11803,7 +11803,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #59578E;
+  color: #10002B;
 }
 
 .resume-section-title:after {
@@ -11813,7 +11813,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   bottom: 0;
   width: 100%;
   height: 1.5px;
-  background: #8d9aad;
+  background: #10002B;
 }
 
 .resume-section-content {
@@ -11843,7 +11843,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #7270a8;
+  border: 4px solid #10002B;
   background: white;
   border-radius: 50%;
 }
@@ -11865,16 +11865,17 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-position-title {
   font-size: 1.125rem;
-  color: #434E5E;
+  color: #10002B;
 }
 
 .resume-timeline-item-desc-heading {
   font-size: 1rem;
+    color: #10002B;
 }
 
 .resume-skills-cat {
   font-size: 1rem;
-  color: #434E5E;
+  color: #10002B;
 }
 
 .resume-skill-name {
@@ -11883,8 +11884,8 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .badge-light {
-  color: #58677c;
-  background: #F7F8FA;
+  color: #FFFFFF;
+  background: #10002B;
 }
 
 .resume-degree {
@@ -11936,7 +11937,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   }
 }
 .btn {
-  border: 1px solid rgba(var(--bs-black-rgb), var(--bs-bg-opacity));
+  border: 1px solid #10002B;
   background-color: rgba(var(--bs-white-rgb), var(--bs-bg-opacity));
   margin: 2em auto;
 }
